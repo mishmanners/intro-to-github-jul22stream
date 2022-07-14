@@ -1,3 +1,5 @@
-Hi this is Mish. I'm live streaming right now.
+# Introduction to GitHub Skills on Twitch.
 
-GitHub Skills session for Twitch live stream.
+Hi all, I'm Mish. I walked through a tutorial and showcase of the GitHub Skills learning modules. You can find this on my [Twitch channel](https://twitch.tv/MishManners).
+
+### GitHub Skills session for Twitch live stream.
